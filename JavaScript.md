@@ -53,3 +53,20 @@
     - https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea
     - http://haskell.cs.yale.edu/wp-content/uploads/2015/03/HSoM.pdf
 
+3. What is the difference between classical inheritance and prototypal inheritance?
+
+  - Class Inheritance: instances inherit from classes (like a blueprint = a description of the class), and create sub-class relationships: hierarchical class taxonomies. INstances are typically instantiated via constructor functions with the `new` keyword. CLass inheritance may or may not use the `class` keyword from ES6.
+  
+  - Prototypal Inheritance: instances inherit directly from other objects. Instances are typically instantiated via factory functions or `Object.create()`. Instances may be composed from many different objects, allowing for easy selective inheritance. 
+
+  - In JS, prototypal inheritance is simpler and more flexible than class inheritance
+
+  Good to hear:
+    - Classes: create tight coupling or hierarchies/taxonomies
+    - Prototypes: mentions of concatenative inheritance, prototype delegation, functional inheritance, object composition
+
+  Red Flags:
+    - No preference for prototypal inheritance and composition over class inheritance
+
+  Learn more:
+    - https://medium.com/javascript-scene/common-misconceptions-about-inheritance-in-javascript-d5d9bab29b0a
