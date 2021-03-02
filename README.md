@@ -260,6 +260,8 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
       - Functional programming (also: closures, first class functions, lambdas)
       red flags:
       - No clue what paradigm is, no mention of prototypal oo or functional programming
+      2. What is functional programming?
+      - Functional programming produces programs by composing mathe
 * [21 Essential JavaScript Interview Questions from best mentors all over the world](https://www.codementor.io/javascript/tutorial/21-essential-javascript-tech-interview-practice-questions-answers)
 * [37 Essential JavaScript Interview Questions from Toptal](http://www.toptal.com/javascript/interview-questions)
 * [5 More JavaScript Interview Exercises](http://www.sitepoint.com/5-javascript-interview-exercises/)
