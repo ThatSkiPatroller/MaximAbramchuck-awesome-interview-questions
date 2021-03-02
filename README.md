@@ -251,6 +251,15 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 ### JavaScript
 
 * [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
+  1. Ask the candidate to build a clicker counter, just to see if they know how to code. Everytime the user clicks a button a counter goes up.
+  2. Ask the cnadidate a list of quesitons about general programming concepts, closures and promises - include common questions related to soft skills.
+      1. Can you name two programming paradigms important for JavaScript app developers?
+      - Javascript is a multi-paradigm language, supporting imperative/procedural prgramming along with OOP (Object-Oriented Programming) and functional programming. JavaScript supports OOP with prototypal inheritance.
+      Good to hear: 
+      - Prototypal inheritance (also: prototypes, OLOO)
+      - Functional programming (also: closures, first class functions, lambdas)
+      red flags:
+      - No clue what paradigm is, no mention of prototypal oo or functional programming
 * [21 Essential JavaScript Interview Questions from best mentors all over the world](https://www.codementor.io/javascript/tutorial/21-essential-javascript-tech-interview-practice-questions-answers)
 * [37 Essential JavaScript Interview Questions from Toptal](http://www.toptal.com/javascript/interview-questions)
 * [5 More JavaScript Interview Exercises](http://www.sitepoint.com/5-javascript-interview-exercises/)
